@@ -1,0 +1,1 @@
+# half-length-of-string
